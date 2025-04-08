@@ -1,0 +1,8 @@
+=== REPORTE DE INSTANCIAS EC2 ===
+i-0b1d246aa3c3ecc82 | running | t2.micro
+i-039e59969cf34b0e7 | running | t2.micro
+i-0416d15d4bd9d6b22 | running | t2.micro
+i-0ab2a346b02718493 | running | t2.micro
+i-084c50b09a97a5c0f | terminated | t2.micro
+i-056731ef1e8ac5c18 | terminated | t2.micro
+i-0e88f0d870691322e | terminated | t2.micro
