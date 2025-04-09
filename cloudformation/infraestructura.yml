@@ -8,12 +8,12 @@ Resources:
       InstanceType: t2.micro
       ImageId: ami-0fc5d935ebf8bc3bc  # Ubuntu 22.04 LTS
       IamInstanceProfile: LabInstanceProfile
-      KeyName: vockey
+      KeyName: clave
       Tags:
-        - Key: Proyecto
-          Value: DevOps_Avance
+        - Key: CloudFormation
+          Value: prueba_1
 
   MiBucketS3:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: mi-bucket-devops-alan
+      BucketName: mi-bucket-proyecto-prueba-1
